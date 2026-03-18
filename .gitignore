@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+data/uploads/
+data/processed/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+backend_log.txt
+package-lock.json
+node_modules/

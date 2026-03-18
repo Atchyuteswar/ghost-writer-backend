@@ -1,0 +1,31 @@
+date,sender,subject,body
+2025-03-10 09:00,Aryan <aryan@example.com>,Project Update,"Hey team, just wanted to share an update on the project. We've made significant progress on the backend API and the frontend is almost ready for testing. Let me know if you have any questions."
+2025-03-10 10:30,Priya Sharma,Re: Project Update,"Thanks for the update Aryan! The API looks solid. I tested the upload endpoint and it works great with WhatsApp exports. One small issue - the Discord parser seems to skip some valid messages."
+2025-03-11 08:15,Raj Kumar <raj.k@company.com>,Meeting Notes,"Here are the notes from yesterday's standup. We discussed the timeline for the next sprint and agreed on the following priorities. Database migration needs to be completed by Friday."
+2025-03-11 14:00,Aryan <aryan@example.com>,Code Review Request,"Can someone review my PR for the NLP analyzer? It includes sentiment analysis and vocabulary richness calculations. The slang detection is also implemented now.
+
+Best regards,
+Aryan"
+2025-03-12 09:45,Meera Patel,Bug Report,"Found a critical bug in the PII masker - it's not catching Indian phone numbers with the +91 prefix. We should add that to the regex pattern.
+
+Thanks,
+Meera"
+2025-03-12 11:00,Priya Sharma,Re: Bug Report,"> Found a critical bug in the PII masker
+> it's not catching Indian phone numbers
+
+Good catch Meera! I'll fix this today. The presidio config needs to be updated for IN locale.
+
+Sent from my iPhone"
+2025-03-13 08:30,Raj Kumar <raj.k@company.com>,Sprint Planning,"Team, please update your task estimates in Jira by EOD. We need to finalize the sprint scope before tomorrow's planning session. Priority items include the battle mode and memory search features."
+2025-03-13 15:00,Aryan <aryan@example.com>,Style Transfer Demo,"Just pushed the style transfer endpoint. Try it out - you can transform formal text into casual slang and vice versa. The vibe level system is working really well. Test it with different personality types."
+2025-03-14 10:00,Meera Patel,Infrastructure Update,"Docker setup is complete. The compose file includes health checks and volume mounts for persistent data. We can now spin up the entire backend with a single command."
+2025-03-14 14:30,Priya Sharma,Testing Plan,"I've written test cases for all the endpoints. Coverage is at 85% right now. Still need to add edge case tests for the parser when files have mixed encodings."
+2025-03-15 09:00,Raj Kumar <raj.k@company.com>,Release Checklist,"Before we deploy to staging we need to verify all environment variables are set correctly and the CORS config allows the Expo dev server. Also make sure LOCAL_ONLY_MODE is properly enforced."
+2025-03-15 11:30,Aryan <aryan@example.com>,Vector Store Performance,"The local vector store performs well up to about 10,000 memories. After that we should consider switching to Pinecone for production. Cosine similarity search takes about 50ms per query which is acceptable."
+2025-03-16 08:00,Meera Patel,Security Review,"Completed the security review. No major issues found. The PII masking works correctly and no sensitive data leaks through the API responses. Anthropic API key is properly read from env vars.
+
+--
+Meera Patel
+Senior Engineer"
+2025-03-16 16:00,Priya Sharma,Weekend Plans,"Hey guys this isn't work related but anyone down for board games this weekend? Its been ages since we hung out outside of standups lol"
+2025-03-17 09:00,Aryan <aryan@example.com>,Final Push,"Alright team last day before the demo. Lets make sure everything is polished. I'll handle the live demo and Priya can you prepare the slide deck? Raj please double check the Docker deployment."

@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {"id": "1001", "timestamp": "2025-03-18T10:00:00.000+00:00", "content": "yo have you guys seen the trailer for that new game", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1002", "timestamp": "2025-03-18T10:01:00.000+00:00", "content": "YES BRO its looking insane actually", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1003", "timestamp": "2025-03-18T10:02:00.000+00:00", "content": "the graphics are next level ngl", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1004", "timestamp": "2025-03-18T10:03:00.000+00:00", "content": "", "author": {"name": "Aryan", "id": "u1"}, "attachments": [{"url": "https://example.com/screenshot.png"}], "embeds": []},
+    {"id": "1005", "timestamp": "2025-03-18T10:04:00.000+00:00", "content": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1006", "timestamp": "2025-03-18T10:05:00.000+00:00", "content": "okay but the story looks mid tbh", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1007", "timestamp": "2025-03-18T10:06:00.000+00:00", "content": "nah bro you gotta give it a chance", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1008", "timestamp": "2025-03-18T10:07:00.000+00:00", "content": "Server maintenance scheduled for tonight", "author": {"name": "ModBot", "id": "bot1", "bot": true}, "attachments": [], "embeds": []},
+    {"id": "1009", "timestamp": "2025-03-18T10:08:00.000+00:00", "content": "lmao the open world is bussin tho", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1010", "timestamp": "2025-03-18T10:09:00.000+00:00", "content": "fair fair ill preorder tonight lowkey", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1011", "timestamp": "2025-03-18T10:10:00.000+00:00", "content": "yesss lets gooo we can co-op right??", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1012", "timestamp": "2025-03-18T10:11:00.000+00:00", "content": "i think so yeah 4 player co-op confirmed", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1013", "timestamp": "2025-03-18T10:12:00.000+00:00", "content": "that is FIRE dude get raj and meera too", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1014", "timestamp": "2025-03-18T10:13:00.000+00:00", "content": "bet bet ill text them rn", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1015", "timestamp": "2025-03-18T10:14:00.000+00:00", "content": "the combat system reminds me of elden ring a bit", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1016", "timestamp": "2025-03-18T10:15:00.000+00:00", "content": "okay now im hyped lol elden ring goated", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1017", "timestamp": "2025-03-18T10:16:00.000+00:00", "content": "", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1018", "timestamp": "2025-03-18T10:17:00.000+00:00", "content": "aight im gonna go grind some ranked rn brb", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []},
+    {"id": "1019", "timestamp": "2025-03-18T10:18:00.000+00:00", "content": "gl bro dont tilt lmao", "author": {"name": "Priya", "id": "u2"}, "attachments": [], "embeds": []},
+    {"id": "1020", "timestamp": "2025-03-18T10:19:00.000+00:00", "content": "no promises LMAOOO", "author": {"name": "Aryan", "id": "u1"}, "attachments": [], "embeds": []}
+  ]
+}
