@@ -38,6 +38,6 @@ async def pii_status():
     ]
     return {
         "presidio_loaded": masker.is_available,
-        "spacy_model": "en_core_web_lg",
+        "spacy_model": "en_core_web_sm",
         "supported_entities": supported,
     }

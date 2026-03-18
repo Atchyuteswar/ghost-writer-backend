@@ -1,9 +1,9 @@
 services:
   - type: web
     name: ghost-writer-backend
-    env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+    env: docker
+    plan: free
+    region: ohio
     envVars:
       - key: ANTHROPIC_API_KEY
         sync: false
@@ -13,9 +13,18 @@ services:
         sync: false
       - key: PINECONE_API_KEY
         sync: false
+      - key: PINECONE_INDEX_NAME
+        value: "ghost-writer-memories"
+      - key: PINECONE_ENVIRONMENT
+        value: "us-east-1-aws"
       - key: ELEVENLABS_API_KEY
         sync: false
       - key: CORS_ORIGINS
         value: '["*"]'
       - key: LOCAL_ONLY_MODE
         value: "false"
+      - key: PORT
+        value: "8000"
+      - key: MAX_FILE_SIZE_MB
+        value: "50"
+
