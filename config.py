@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     PINECONE_INDEX_NAME: str = "ghost-writer-memories"
     PINECONE_ENVIRONMENT: str = "us-east-1-aws"
     SUPABASE_URL: str = "https://kpeslowdqajzlmhlwajm.supabase.co"
-    SUPABASE_KEY: str = "sb_publishable_cwH4Ddz7ouRkodh6Y3BzDg_eAjPIOe5"
+    SUPABASE_KEY: str = ""
     LOCAL_ONLY_MODE: bool = True
     MAX_FILE_SIZE_MB: int = 50
     CORS_ORIGINS: List[str] = ["http://localhost:3000", "http://localhost:8081", "*"]
